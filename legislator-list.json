@@ -3,6 +3,7 @@
         "active": true,
         "city": "台東縣",
         "contacts": {
+            "email": null,
             "南迴服務處": {
                 "傳真": "089-790-398",
                 "通訊處": "台東縣大武鄉尚武村4鄰32號",
@@ -25,7 +26,6 @@
             }
         },
         "electoral-district": "台東縣",
-        "email": null,
         "facebook": "https://www.facebook.com/ZhaoHaoLiu",
         "last-name-phonetic-index": "ㄌ",
         "name": "劉櫂豪",
@@ -37,6 +37,7 @@
         "active": true,
         "city": "宜蘭縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6170",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0408室",
@@ -54,7 +55,6 @@
             }
         },
         "electoral-district": "宜蘭縣",
-        "email": null,
         "facebook": "https://www.facebook.com/oupchen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳歐珀",
@@ -66,6 +66,7 @@
         "active": true,
         "city": "山地原住民",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8250",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0203室",
@@ -73,7 +74,6 @@
             }
         },
         "electoral-district": "山地原住民",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/孔文吉/134086613358799",
         "last-name-phonetic-index": "ㄎ",
         "name": "孔文吉",
@@ -85,6 +85,7 @@
         "active": true,
         "city": "山地原住民",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6685",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1005室",
@@ -97,7 +98,6 @@
             }
         },
         "electoral-district": "山地原住民",
-        "email": null,
         "facebook": "https://www.facebook.com/uliw.qaljupayare",
         "last-name-phonetic-index": "ㄐ",
         "name": "簡東明",
@@ -109,6 +109,7 @@
         "active": true,
         "city": "山地原住民",
         "contacts": {
+            "email": null,
             "南區服務處": {
                 "傳真": "08-799-5963",
                 "通訊處": "屏東縣瑪家鄉北葉村9鄰風景巷1-3號",
@@ -121,7 +122,6 @@
             }
         },
         "electoral-district": "山地原住民",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/高金素梅吉娃斯阿麗/276861822357066",
         "last-name-phonetic-index": "ㄍ",
         "name": "高金素梅",
@@ -133,6 +133,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": "pasuyayao@gmail.com",
             "國會研究室": {
                 "傳真": "02-2358-8170",
                 "通訊處": "10051臺北市中正區青島東路1號3110室",
@@ -145,7 +146,6 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "email": "pasuyayao@gmail.com",
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "賴士葆",
@@ -157,6 +157,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6905",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2112室",
@@ -164,7 +165,6 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄐ",
         "name": "蔣乃辛",
@@ -176,6 +176,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": "pasuyayao@gmail.com",
             "國會研究室": {
                 "傳真": "02-2358-6040",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1102室",
@@ -183,7 +184,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": "pasuyayao@gmail.com",
         "facebook": "https://www.facebook.com/pasuyayao",
         "last-name-phonetic-index": "ㄧ",
         "name": "姚文智",
@@ -195,6 +195,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": "lym001a@ly.gov.tw",
             "北投服務處": {
                 "傳真": "02-2828-6877",
                 "通訊處": "11262臺北市北投區承德路七段188巷2號1樓",
@@ -207,7 +208,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": "lym001a@ly.gov.tw",
         "facebook": "https://www.facebook.com/drtingsc",
         "last-name-phonetic-index": "ㄉ",
         "name": "丁守中",
@@ -219,6 +219,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": null,
             "內湖服務處": {
                 "傳真": "02-2795-6289",
                 "通訊處": "114臺北市內湖區成功路三段82號2樓",
@@ -231,7 +232,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡正元",
@@ -243,6 +243,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6994",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0502室",
@@ -255,7 +256,6 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄈ",
         "name": "費鴻泰",
@@ -267,6 +267,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6280",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0601室",
@@ -274,7 +275,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/yufang.lin.182",
         "last-name-phonetic-index": "ㄌ",
         "name": "林郁方",
@@ -286,6 +286,7 @@
         "active": true,
         "city": "台北市",
         "contacts": {
+            "email": "taiwan175@gmail.com",
             "中山服務處": {
                 "傳真": "02-2561-1035",
                 "通訊處": "臺北市民權東路二段26號6樓之7",
@@ -303,7 +304,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": "taiwan175@gmail.com",
         "facebook": "https://www.facebook.com/people/羅淑蕾/100001773850305",
         "last-name-phonetic-index": "ㄌ",
         "name": "羅淑蕾",
@@ -315,6 +315,7 @@
         "active": true,
         "city": "金門縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8270",
                 "通訊處": "10051臺北市中正區青島東路1號3206室",
@@ -327,7 +328,6 @@
             }
         },
         "electoral-district": "金門縣",
-        "email": null,
         "facebook": "https://www.facebook.com/eyang68",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊應雄",
@@ -339,6 +339,7 @@
         "active": true,
         "city": "雲林縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8089",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0602室",
@@ -361,7 +362,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/liucnko.fans",
         "last-name-phonetic-index": "ㄌ",
         "name": "劉建國",
@@ -373,6 +373,7 @@
         "active": true,
         "city": "雲林縣",
         "contacts": {
+            "email": null,
             "北港服務處": {
                 "傳真": "05-782-2848",
                 "通訊處": "雲林縣北港鎮公園路406號",
@@ -390,7 +391,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/aliceyoung0110",
         "last-name-phonetic-index": "ㄓ",
         "name": "張嘉郡",
@@ -402,6 +402,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8135",
                 "通訊處": "10051臺北市中正區青島東路1號3108室",
@@ -409,7 +410,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/WuYiZhenErica",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳宜臻",
@@ -421,6 +421,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6859",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0902室",
@@ -443,7 +444,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/braywu",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳秉叡",
@@ -455,6 +455,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6660",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0305室",
@@ -467,7 +468,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/Labour.tw",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳育仁",
@@ -479,6 +479,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8113",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0402室",
@@ -496,7 +497,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/yumeinu",
         "last-name-phonetic-index": "ㄧ",
         "name": "尤美女",
@@ -508,6 +508,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6235",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0607室",
@@ -520,7 +521,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄒ",
         "name": "徐少萍",
@@ -532,6 +532,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6390",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0705室",
@@ -539,7 +540,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/曾巨威教授官方粉絲團/310477302333955",
         "last-name-phonetic-index": "ㄗ",
         "name": "曾巨威",
@@ -551,6 +551,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8165",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0701室",
@@ -568,7 +569,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/LeeYingYuan",
         "last-name-phonetic-index": "ㄌ",
         "name": "李應元",
@@ -580,6 +580,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8310",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2116室",
@@ -587,7 +588,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/thlee2116",
         "last-name-phonetic-index": "ㄌ",
         "name": "李桐豪",
@@ -599,6 +599,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6380",
                 "通訊處": "10051臺北市中正區青島東路1號3306室",
@@ -606,7 +607,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/staceylee3306",
         "last-name-phonetic-index": "ㄌ",
         "name": "李貴敏",
@@ -619,11 +619,10 @@
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "林世嘉",
-        "note": "因喪失其所屬台灣團結聯盟黨籍, 102年7月15日起註銷名籍",
+        "note": "因喪失其所屬台灣團結聯盟黨籍, 2013/07/15起註銷名籍",
         "party": "台灣團結聯盟",
         "sector": "全"
     },
@@ -631,6 +630,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6110",
                 "通訊處": "10051臺北市中正區青島東路3號3樓",
@@ -643,7 +643,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/柯建銘/1413658198866930",
         "last-name-phonetic-index": "ㄎ",
         "name": "柯建銘",
@@ -655,6 +654,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6670",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0608室",
@@ -662,7 +662,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/yangyuxing",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊玉欣",
@@ -674,6 +673,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6200",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0308室",
@@ -681,7 +681,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/tuanyikang",
         "last-name-phonetic-index": "ㄉ",
         "name": "段宜康",
@@ -693,6 +692,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6100",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號12樓",
@@ -705,7 +705,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄏ",
         "name": "洪秀柱",
@@ -717,6 +716,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6035",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0201室",
@@ -724,7 +724,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄆ",
         "name": "潘維剛",
@@ -736,6 +735,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8265",
                 "通訊處": "10051臺北市中正區青島東路1號3401室",
@@ -743,7 +743,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/兒少尖兵-立法委員王育敏/151758448274492",
         "last-name-phonetic-index": "ㄨ",
         "name": "王育敏",
@@ -755,6 +754,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2395-5317",
                 "通訊處": "10051臺北市中正區中山南路1號",
@@ -767,7 +767,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "王金平",
@@ -779,6 +778,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8320",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0806室",
@@ -791,7 +791,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/田秋堇立委國會辦公室/154627377906513",
         "last-name-phonetic-index": "ㄊ",
         "name": "田秋堇",
@@ -803,6 +802,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6940",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0303",
@@ -815,7 +815,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/紀國棟/100005335924249",
         "last-name-phonetic-index": "ㄐ",
         "name": "紀國棟",
@@ -827,6 +826,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6880",
                 "通訊處": "10051台北市中正區濟南路一段3-1號405室",
@@ -839,7 +839,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/tsuYueh",
         "last-name-phonetic-index": "ㄧ",
         "name": "葉津鈴",
@@ -851,6 +850,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8260",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2101室",
@@ -858,7 +858,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/liang4975",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡煌瑯",
@@ -870,6 +869,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": "https://www.facebook.com/Bikhim",
             "國會研究室": {
                 "傳真": "02-2358-6180",
                 "通訊處": "10051臺北市中正區青島東路10號3503室",
@@ -877,7 +877,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": "https://www.facebook.com/Bikhim",
         "facebook": null,
         "last-name-phonetic-index": "ㄒ",
         "name": "蕭美琴",
@@ -889,6 +888,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "北投服務處": {
                 "傳真": "02-2891-3096",
                 "通訊處": "臺北市北投區大同街221號",
@@ -911,7 +911,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/薛凌/100001982648994",
         "last-name-phonetic-index": "ㄒ",
         "name": "薛凌",
@@ -923,6 +922,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6575",
                 "通訊處": "10051臺北市中正區青島東路10號3505室",
@@ -935,7 +935,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄙ",
         "name": "蘇清泉",
@@ -944,15 +943,14 @@
         "sector": "全"
     },
     {
-        "active": true,
+        "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/hsuchunghsin",
         "last-name-phonetic-index": "ㄒ",
         "name": "許忠信",
-        "note": null,
+        "note": "2014/02/01辭職",
         "party": "台灣團結聯盟",
         "sector": "全"
     },
@@ -960,6 +958,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8110",
                 "通訊處": "10051臺北市中正區鎮江街2號5108室",
@@ -967,7 +966,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄑ",
         "name": "邱文彥",
@@ -979,6 +977,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8330",
                 "通訊處": "10051臺北市中正區青島東路1號3301室",
@@ -986,7 +985,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/love.lichiun",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭麗君",
@@ -998,6 +996,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8570",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1105室",
@@ -1010,7 +1009,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/陳其邁-Chen-Chi-Mai/122936517768637",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳其邁",
@@ -1022,6 +1020,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6800",
                 "通訊處": "10051台北市中正區濟南路一段3-1號507室",
@@ -1029,7 +1028,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/立委-陳怡潔-Chen-Yi-Chieh/538471059564180",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳怡潔",
@@ -1041,6 +1039,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "台南服務處": {
                 "傳真": "06-269-2889",
                 "通訊處": "臺南市東區崇明14街53號",
@@ -1053,7 +1052,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄔ",
         "name": "陳淑慧",
@@ -1065,6 +1063,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8185",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0603室",
@@ -1072,7 +1071,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/dr.pihanchen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳碧涵",
@@ -1084,6 +1082,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6050",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2115室",
@@ -1091,7 +1090,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄔ",
         "name": "陳節如",
@@ -1103,6 +1101,7 @@
         "active": true,
         "city": "全國不分區",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8290",
                 "通訊處": "10051臺北市中正區青島東路1號3405室",
@@ -1110,7 +1109,6 @@
             }
         },
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/陳鎮湘/370548443039113",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳鎮湘",
@@ -1119,15 +1117,14 @@
         "sector": "全"
     },
     {
-        "active": true,
+        "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "email": null,
         "facebook": "https://www.facebook.com/mchainlisa",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃文玲",
-        "note": null,
+        "note": "2014/02/01辭職",
         "party": "台灣團結聯盟",
         "sector": "全"
     },
@@ -1135,6 +1132,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6885",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2118室",
@@ -1147,7 +1145,6 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄙ",
         "name": "孫大千",
@@ -1159,6 +1156,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6320",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0605室",
@@ -1181,7 +1179,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "廖正井",
@@ -1193,6 +1190,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6225",
                 "通訊處": "10051臺北市中正區青島東路1號3309室",
@@ -1215,7 +1213,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/profile.php?id=100003044085643",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳根德",
@@ -1227,6 +1224,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6070",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0208室",
@@ -1239,7 +1237,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/ly10962a",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊麗環",
@@ -1251,6 +1248,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6840",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0905室",
@@ -1268,7 +1266,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/yuling616",
         "last-name-phonetic-index": "ㄌ",
         "name": "呂玉玲",
@@ -1280,6 +1277,7 @@
         "active": true,
         "city": "桃園縣",
         "contacts": {
+            "email": null,
             "中壢服務處": {
                 "傳真": null,
                 "通訊處": "桃園縣中壢市中央西路二段281號4樓",
@@ -1292,7 +1290,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/junglicity",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳學聖",
@@ -1304,6 +1301,7 @@
         "active": true,
         "city": "僑居國外國民",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6540",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0802室",
@@ -1311,7 +1309,6 @@
             }
         },
         "electoral-district": "僑居國外國民",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄓ",
         "name": "詹凱臣",
@@ -1323,6 +1320,7 @@
         "active": true,
         "city": "屏東縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6630",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0401室",
@@ -1340,7 +1338,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "王進士",
@@ -1352,6 +1349,7 @@
         "active": true,
         "city": "屏東縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6640",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0708室",
@@ -1364,7 +1362,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/profile.php?id=100000445699070",
         "last-name-phonetic-index": "ㄙ",
         "name": "蘇震清",
@@ -1376,6 +1373,7 @@
         "active": true,
         "city": "屏東縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6651",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0702室",
@@ -1403,7 +1401,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pan.menan1",
         "last-name-phonetic-index": "ㄆ",
         "name": "潘孟安",
@@ -1415,6 +1412,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6730",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2102室",
@@ -1432,7 +1430,6 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/johnnyccchiang",
         "last-name-phonetic-index": "ㄐ",
         "name": "江啟臣",
@@ -1444,6 +1441,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "台中服務處": {
                 "傳真": "04-2265-8822",
                 "通訊處": "臺中市南區復興路二段30-22號",
@@ -1456,7 +1454,6 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/forpeople",
         "last-name-phonetic-index": "ㄌ",
         "name": "林佳龍",
@@ -1468,6 +1465,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8010",
                 "通訊處": "10051台北市中正區青島東路10號3501室",
@@ -1490,7 +1488,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/YanKuanHeng",
         "last-name-phonetic-index": "ㄧ",
         "name": "顏寬恒",
@@ -1502,6 +1499,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6155",
                 "通訊處": "10051臺北市中正區青島東路1號3103室",
@@ -1519,7 +1517,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/Tsaichichang",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡其昌",
@@ -1531,6 +1528,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "台中服務處": {
                 "傳真": "04-2708-2896",
                 "通訊處": "臺中市西屯區黎明路三段58號",
@@ -1543,7 +1541,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/long.tcgo",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡錦隆",
@@ -1555,6 +1552,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8390",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0301室",
@@ -1572,7 +1570,6 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/何欣純立法委員粉絲團/302880513884",
         "last-name-phonetic-index": "ㄏ",
         "name": "何欣純",
@@ -1584,6 +1581,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "台中服務處": {
                 "傳真": "04-2319-9760",
                 "通訊處": "臺中市北區博館路92號4樓",
@@ -1596,7 +1594,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "盧秀燕",
@@ -1608,6 +1605,7 @@
         "active": true,
         "city": "台中市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6210",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0907室",
@@ -1625,7 +1623,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/yangchiungying",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊瓊瓔",
@@ -1637,6 +1634,7 @@
         "active": true,
         "city": "台南市",
         "contacts": {
+            "email": null,
             "佳里服務處": {
                 "傳真": "06-723-0023",
                 "通訊處": "臺南市佳里區進學路130號",
@@ -1654,7 +1652,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/taiwanweicher",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃偉哲",
@@ -1666,6 +1663,7 @@
         "active": true,
         "city": "台南市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6295",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0403室",
@@ -1683,7 +1681,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/YehYiJin",
         "last-name-phonetic-index": "ㄧ",
         "name": "葉宜津",
@@ -1695,6 +1692,7 @@
         "active": true,
         "city": "台南市",
         "contacts": {
+            "email": null,
             "台南服務處": {
                 "傳真": "06-273-9817",
                 "通訊處": "臺南市永康區民族路536號",
@@ -1707,7 +1705,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/tangshan.chen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳唐山",
@@ -1719,6 +1716,7 @@
         "active": true,
         "city": "台南市",
         "contacts": {
+            "email": null,
             "台南服務處": {
                 "傳真": "06-298-3163",
                 "通訊處": "臺南市安平區永華路二段822號",
@@ -1736,7 +1734,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/tthsu",
         "last-name-phonetic-index": "ㄒ",
         "name": "許添財",
@@ -1748,6 +1745,7 @@
         "active": true,
         "city": "台南市",
         "contacts": {
+            "email": null,
             "北區服務處": {
                 "傳真": "06-358-6489",
                 "通訊處": "704臺南市北區海安路三段963號",
@@ -1765,7 +1763,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/fififans",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳亭妃",
@@ -1777,6 +1774,7 @@
         "active": true,
         "city": "基隆市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8070",
                 "通訊處": "10051臺北市中正區青島東路1號3305室",
@@ -1789,7 +1787,6 @@
             }
         },
         "electoral-district": "基隆市",
-        "email": null,
         "facebook": "https://www.facebook.com/hsieh.kuo.liang",
         "last-name-phonetic-index": "ㄒ",
         "name": "謝國樑",
@@ -1801,6 +1798,7 @@
         "active": true,
         "city": "平地原住民",
         "contacts": {
+            "email": null,
             "台東服務處": {
                 "傳真": "089-228-600",
                 "通訊處": "臺東市四維路3段72號",
@@ -1813,7 +1811,6 @@
             }
         },
         "electoral-district": "平地原住民",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/廖國棟_立法委員/125243364222522",
         "last-name-phonetic-index": "ㄌ",
         "name": "廖國棟",
@@ -1822,15 +1819,14 @@
         "sector": "平"
     },
     {
-        "active": true,
+        "active": false,
         "city": "平地原住民",
         "contacts": null,
         "electoral-district": "平地原住民",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "林正二",
-        "note": null,
+        "note": "因案於2013/07/11經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
         "party": "親民黨",
         "sector": "平"
     },
@@ -1839,7 +1835,6 @@
         "city": "平地原住民",
         "contacts": null,
         "electoral-district": "平地原住民",
-        "email": null,
         "facebook": "https://www.facebook.com/srakacaw",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭天財",
@@ -1851,6 +1846,7 @@
         "active": true,
         "city": "連江縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6635",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2117室",
@@ -1863,7 +1859,6 @@
             }
         },
         "electoral-district": "連江縣",
-        "email": null,
         "facebook": "https://www.facebook.com/matsuchenlionheart",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳雪生",
@@ -1875,6 +1870,7 @@
         "active": true,
         "city": "南投縣",
         "contacts": {
+            "email": null,
             "南投服務處": {
                 "傳真": "049-224-2379",
                 "通訊處": "南投市復興路75號之1",
@@ -1887,7 +1883,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/LiFaWeiYuanLinMingQin",
         "last-name-phonetic-index": "ㄌ",
         "name": "林明溱",
@@ -1899,6 +1894,7 @@
         "active": true,
         "city": "南投縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6820",
                 "通訊處": "10051臺北市中正區青島東路1號3113室",
@@ -1916,7 +1912,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/nantou.go",
         "last-name-phonetic-index": "ㄇ",
         "name": "馬文君",
@@ -1928,6 +1923,7 @@
         "active": true,
         "city": "澎湖縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6740",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0205室",
@@ -1940,7 +1936,6 @@
             }
         },
         "electoral-district": "澎湖縣",
-        "email": null,
         "facebook": "https://www.facebook.com/penghu.yao",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊曜",
@@ -1952,6 +1947,7 @@
         "active": true,
         "city": "苗栗縣",
         "contacts": {
+            "email": null,
             "公館服務處": {
                 "傳真": "037-239-233",
                 "通訊處": "苗栗縣公館鄉仁愛路二段168-1號",
@@ -1974,7 +1970,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/shaozhi.luo",
         "last-name-phonetic-index": "ㄒ",
         "name": "徐耀昌",
@@ -1986,6 +1981,7 @@
         "active": true,
         "city": "苗栗縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6615",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1003室",
@@ -1998,7 +1994,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/陳-超-明-立法委員-Amingo-e國會辦公室/215361781885954",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳超明",
@@ -2010,6 +2005,7 @@
         "active": true,
         "city": "嘉義市",
         "contacts": {
+            "email": null,
             "嘉義服務處": {
                 "傳真": "05-277-9775",
                 "通訊處": "600嘉義市共和路239號",
@@ -2022,7 +2018,6 @@
             }
         },
         "electoral-district": "嘉義市",
-        "email": null,
         "facebook": "https://www.facebook.com/chunyilee3721",
         "last-name-phonetic-index": "ㄌ",
         "name": "李俊俋",
@@ -2034,6 +2029,7 @@
         "active": true,
         "city": "新竹縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6355",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0306室",
@@ -2046,7 +2042,6 @@
             }
         },
         "electoral-district": "新竹縣",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/徐欣瑩/131795423172",
         "last-name-phonetic-index": "ㄒ",
         "name": "徐欣瑩",
@@ -2058,6 +2053,7 @@
         "active": true,
         "city": "花蓮縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6690",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1103室",
@@ -2070,7 +2066,6 @@
             }
         },
         "electoral-district": "花蓮縣",
-        "email": null,
         "facebook": "https://www.facebook.com/wang365",
         "last-name-phonetic-index": "ㄨ",
         "name": "王廷升",
@@ -2087,6 +2082,7 @@
                 "通訊處": null,
                 "電話": "07-768-1899"
             },
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6625",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0703室",
@@ -2099,7 +2095,6 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/ifongshan",
         "last-name-phonetic-index": "ㄒ",
         "name": "許智傑",
@@ -2111,6 +2106,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6925",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2119室",
@@ -2123,7 +2119,6 @@
             }
         },
         "electoral-district": "第9選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/linkuo.cheng",
         "last-name-phonetic-index": "ㄌ",
         "name": "林國正",
@@ -2135,6 +2130,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6090",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2106室",
@@ -2147,7 +2143,6 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/kuntse",
         "last-name-phonetic-index": "ㄌ",
         "name": "李昆澤",
@@ -2159,6 +2154,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6565",
                 "通訊處": "10051臺北市中正區青島東路1號3406室",
@@ -2196,7 +2192,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/Hope.Chiu.2012",
         "last-name-phonetic-index": "ㄑ",
         "name": "邱志偉",
@@ -2208,6 +2203,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6520",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0801室",
@@ -2220,7 +2216,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/登真-邱議瑩/179828222070223",
         "last-name-phonetic-index": "ㄑ",
         "name": "邱議瑩",
@@ -2232,6 +2227,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8030",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0706室",
@@ -2249,7 +2245,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/LinDaiHua",
         "last-name-phonetic-index": "ㄌ",
         "name": "林岱樺",
@@ -2261,6 +2256,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6580",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0505室",
@@ -2273,7 +2269,6 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/趙天麟/109004835824305",
         "last-name-phonetic-index": "ㄓ",
         "name": "趙天麟",
@@ -2285,6 +2280,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "內惟服務處": {
                 "傳真": "07-521-5237",
                 "通訊處": "高雄市鼓山區九如四路1097號",
@@ -2302,7 +2298,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/biling.kuan",
         "last-name-phonetic-index": "ㄍ",
         "name": "管碧玲",
@@ -2314,6 +2309,7 @@
         "active": true,
         "city": "高雄市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6790",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1107室",
@@ -2326,7 +2322,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/chaoshun",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃昭順",
@@ -2338,6 +2333,7 @@
         "active": true,
         "city": "彰化縣",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-8285",
                 "通訊處": "10051臺北市中正區青島東路1號3402室",
@@ -2350,7 +2346,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/林滄敏/100001652342566",
         "last-name-phonetic-index": "ㄌ",
         "name": "林滄敏",
@@ -2362,6 +2357,7 @@
         "active": true,
         "city": "彰化縣",
         "contacts": {
+            "email": null,
             "和美服務處": {
                 "傳真": "04-757-4822",
                 "通訊處": "彰化縣和美鎮德美路456號",
@@ -2379,7 +2375,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/wang.huimei",
         "last-name-phonetic-index": "ㄨ",
         "name": "王惠美",
@@ -2391,6 +2386,7 @@
         "active": true,
         "city": "彰化縣",
         "contacts": {
+            "email": null,
             "員林服務處": {
                 "傳真": "04-835-3414",
                 "通訊處": "彰化縣員林鎮惠來里惠明街219號",
@@ -2413,7 +2409,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/MingkuWeiDPP",
         "last-name-phonetic-index": "ㄨ",
         "name": "魏明谷",
@@ -2425,6 +2420,7 @@
         "active": true,
         "city": "彰化縣",
         "contacts": {
+            "email": null,
             "二林服務處": {
                 "傳真": "04-895-5012",
                 "通訊處": "彰化縣二林鎮後厝里太平路一段88巷86號",
@@ -2447,7 +2443,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/立法委員鄭汝芬/246025718756404",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭汝芬",
@@ -2459,6 +2454,7 @@
         "active": true,
         "city": "嘉義縣",
         "contacts": {
+            "email": null,
             "嘉義服務處": {
                 "傳真": "05-225-1641",
                 "通訊處": "600嘉義市力行街72號",
@@ -2471,7 +2467,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/陳明文/100001602950538",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳明文",
@@ -2483,6 +2478,7 @@
         "active": true,
         "city": "嘉義縣",
         "contacts": {
+            "email": null,
             "嘉義義竹服務處": {
                 "傳真": "05-341-7251",
                 "通訊處": "嘉義縣義竹鄉仁里村407-4號",
@@ -2495,7 +2491,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/chungchunwong",
         "last-name-phonetic-index": "ㄨ",
         "name": "翁重鈞",
@@ -2507,6 +2502,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "中和服務處": {
                 "傳真": "02-8221-3690",
                 "通訊處": "新北市中和區建康路107號1樓",
@@ -2519,7 +2515,6 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/chingchung1204",
         "last-name-phonetic-index": "ㄓ",
         "name": "張慶忠",
@@ -2531,6 +2526,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6585",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0808室",
@@ -2543,7 +2539,6 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/江惠貞/100002156317183",
         "last-name-phonetic-index": "ㄐ",
         "name": "江惠貞",
@@ -2555,6 +2550,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "三峽服務處": {
                 "傳真": "02-2672-8599",
                 "通訊處": "新北市三峽區中正路一段108巷7弄17號",
@@ -2572,7 +2568,6 @@
             }
         },
         "electoral-district": "第10選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/lu22689267",
         "last-name-phonetic-index": "ㄌ",
         "name": "盧嘉辰",
@@ -2584,6 +2579,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6999",
                 "通訊處": "10051臺北市中正區青島東路1號3201室",
@@ -2596,7 +2592,6 @@
             }
         },
         "electoral-district": "第9選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/defu.wonderful",
         "last-name-phonetic-index": "ㄌ",
         "name": "林德福",
@@ -2608,6 +2603,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6875",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0506室",
@@ -2620,7 +2616,6 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/lin22536788",
         "last-name-phonetic-index": "ㄌ",
         "name": "林鴻池",
@@ -2632,6 +2627,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "五股服務處": {
                 "傳真": "02-2291-2355",
                 "通訊處": "臺北縣五股鄉民義路一段37號",
@@ -2649,7 +2645,6 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/linshufen.fans",
         "last-name-phonetic-index": "ㄌ",
         "name": "林淑芬",
@@ -2661,6 +2656,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "三芝服務處": {
                 "傳真": "02-2636-1565",
                 "通訊處": "新北市三芝區公正街三段1號1樓",
@@ -2698,7 +2694,6 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "吳育昇",
@@ -2710,6 +2705,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6240",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1108室",
@@ -2722,7 +2718,6 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/pages/立法委員李鴻鈞/176709252368240",
         "last-name-phonetic-index": "ㄌ",
         "name": "李鴻鈞",
@@ -2734,6 +2729,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6525",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號2111室",
@@ -2751,7 +2747,6 @@
             }
         },
         "electoral-district": "第12選舉區",
-        "email": null,
         "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "李慶華",
@@ -2763,6 +2758,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6780",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號1106室",
@@ -2775,7 +2771,6 @@
             }
         },
         "electoral-district": "第11選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/mtlo.tw",
         "last-name-phonetic-index": "ㄌ",
         "name": "羅明才",
@@ -2787,6 +2782,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6395",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0606室",
@@ -2809,7 +2805,6 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/ly11051",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃志雄",
@@ -2821,6 +2816,7 @@
         "active": true,
         "city": "新北市",
         "contacts": {
+            "email": null,
             "三重服務處": {
                 "傳真": "02-8988-3076",
                 "通訊處": "新北市三重區忠孝路一段153號",
@@ -2833,7 +2829,6 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "email": null,
         "facebook": "https://www.facebook.com/people/高志鵬/100001487780127",
         "last-name-phonetic-index": "ㄍ",
         "name": "高志鵬",
@@ -2845,6 +2840,7 @@
         "active": true,
         "city": "新竹市",
         "contacts": {
+            "email": null,
             "國會研究室": {
                 "傳真": "02-2358-6260",
                 "通訊處": "10051臺北市中正區濟南路1段3-1號0407室",
@@ -2857,12 +2853,73 @@
             }
         },
         "electoral-district": "新竹市",
-        "email": null,
         "facebook": "https://www.facebook.com/profile.php?id=100002064436517",
         "last-name-phonetic-index": "ㄌ",
         "name": "呂學樟",
         "note": null,
         "party": "中國國民黨",
         "sector": "北"
+    },
+    {
+        "active": false,
+        "city": "全國不分區",
+        "contacts": null,
+        "electoral-district": "全國不分區",
+        "facebook": null,
+        "last-name-phonetic-index": "ㄓ",
+        "name": "張曉風",
+        "note": "2013/03/17辭職",
+        "party": "親民黨",
+        "sector": "全"
+    },
+    {
+        "active": false,
+        "city": "台中市",
+        "contacts": null,
+        "electoral-district": "第2選舉區",
+        "facebook": null,
+        "last-name-phonetic-index": "ㄧ",
+        "name": "顏清標",
+        "note": "因案於2012/11/28經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
+        "party": "無黨團結聯盟",
+        "sector": "中"
+    },
+    {
+        "active": true,
+        "city": "全國不分區",
+        "contacts": {
+            "email": null,
+            "國會研究室": {
+                "傳真": "02-2358-6870",
+                "通訊處": "10051台北市中正區青島東路1號3203室",
+                "電話": "02-2358-6868"
+            }
+        },
+        "electoral-district": "全國不分區",
+        "facebook": "https://www.facebook.com/nian.chou",
+        "last-name-phonetic-index": "ㄓ",
+        "name": "周倪安",
+        "note": null,
+        "party": "台灣團結聯盟",
+        "sector": "全"
+    },
+    {
+        "active": true,
+        "city": "全國不分區",
+        "contacts": {
+            "email": null,
+            "國會研究室": {
+                "傳真": "02-2358-8560",
+                "通訊處": "10051台北市中正區濟南路一段3-1號1008室",
+                "電話": "02-2358-8558"
+            }
+        },
+        "electoral-district": "全國不分區",
+        "facebook": "https://www.facebook.com/LaiChanChun",
+        "last-name-phonetic-index": "ㄌ",
+        "name": "賴振昌",
+        "note": null,
+        "party": "台灣團結聯盟",
+        "sector": "全"
     }
 ]
