@@ -948,7 +948,7 @@
             "address":{
                 "國會研究室":"10051臺北市中正區青島東路10號3503室"
             },
-            "email":"https://www.facebook.com/Bikhim",
+            "email":null,
             "fax":{
                 "國會研究室":"02-2358-6180"
             },
@@ -957,7 +957,7 @@
             }
         },
         "electoral-district":"全國不分區",
-        "facebook":null,
+        "facebook":"https://www.facebook.com/Bikhim",
         "last-name-phonetic-index":"ㄒ",
         "name":"蕭美琴",
         "note":null,
