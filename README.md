@@ -20,3 +20,11 @@ Data Files
     * city
       * electoral district
           * legislator
+
+Sources of Data
+====================
+[公民監督國會聯盟] (https://sites.google.com/site/ccwdata/monitoring/whosmylegislator)
+
+[立法院全球資訊網] (http://www.ly.gov.tw/03_leg/0301_main/legList.action)
+
+Links to Faceook are from Google search
