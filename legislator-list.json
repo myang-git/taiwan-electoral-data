@@ -24,13 +24,15 @@
             }
         },
         "electoral-district": "台東縣",
-        "facebook": "https://www.facebook.com/ZhaoHaoLiu",
         "last-name-phonetic-index": "ㄌ",
         "name": "劉櫂豪",
         "note": null,
         "party": "民主進步黨",
-        "sector": "東",
-        "wikipedia": "http://zh.wikipedia.org/wiki/劉櫂豪"
+        "references": {
+            "facebook": "https://www.facebook.com/ZhaoHaoLiu",
+            "wikipedia": "http://zh.wikipedia.org/wiki/劉櫂豪"
+        },
+        "sector": "東"
     },
     {
         "active": true,
@@ -54,13 +56,15 @@
             }
         },
         "electoral-district": "宜蘭縣",
-        "facebook": "https://www.facebook.com/oupchen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳歐珀",
         "note": null,
         "party": "民主進步黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳歐珀"
+        "references": {
+            "facebook": "https://www.facebook.com/oupchen",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳歐珀"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -78,13 +82,15 @@
             }
         },
         "electoral-district": "山地原住民",
-        "facebook": "https://www.facebook.com/pages/孔文吉/134086613358799",
         "last-name-phonetic-index": "ㄎ",
         "name": "孔文吉",
         "note": null,
         "party": "中國國民黨",
-        "sector": "山",
-        "wikipedia": "http://zh.wikipedia.org/wiki/孔文吉"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/孔文吉/134086613358799",
+            "wikipedia": "http://zh.wikipedia.org/wiki/孔文吉"
+        },
+        "sector": "山"
     },
     {
         "active": true,
@@ -105,13 +111,15 @@
             }
         },
         "electoral-district": "山地原住民",
-        "facebook": "https://www.facebook.com/uliw.qaljupayare",
         "last-name-phonetic-index": "ㄐ",
         "name": "簡東明",
         "note": null,
         "party": "中國國民黨",
-        "sector": "山",
-        "wikipedia": "http://zh.wikipedia.org/wiki/簡東明"
+        "references": {
+            "facebook": "https://www.facebook.com/uliw.qaljupayare",
+            "wikipedia": "http://zh.wikipedia.org/wiki/簡東明"
+        },
+        "sector": "山"
     },
     {
         "active": true,
@@ -132,13 +140,15 @@
             }
         },
         "electoral-district": "山地原住民",
-        "facebook": "https://www.facebook.com/pages/高金素梅吉娃斯阿麗/276861822357066",
         "last-name-phonetic-index": "ㄍ",
         "name": "高金素梅",
         "note": null,
         "party": "無黨團結聯盟",
-        "sector": "山",
-        "wikipedia": "http://zh.wikipedia.org/wiki/高金素梅"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/高金素梅吉娃斯阿麗/276861822357066",
+            "wikipedia": "http://zh.wikipedia.org/wiki/高金素梅"
+        },
+        "sector": "山"
     },
     {
         "active": true,
@@ -159,13 +169,15 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "賴士葆",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/賴士葆"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/賴士葆"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -183,13 +195,15 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄐ",
         "name": "蔣乃辛",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蔣乃辛"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/蔣乃辛"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -207,13 +221,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/pasuyayao",
         "last-name-phonetic-index": "ㄧ",
         "name": "姚文智",
         "note": null,
         "party": "民主進步黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/姚文智"
+        "references": {
+            "facebook": "https://www.facebook.com/pasuyayao",
+            "wikipedia": "http://zh.wikipedia.org/wiki/姚文智"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -234,13 +250,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/drtingsc",
         "last-name-phonetic-index": "ㄉ",
         "name": "丁守中",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/丁守中"
+        "references": {
+            "facebook": "https://www.facebook.com/drtingsc",
+            "wikipedia": "http://zh.wikipedia.org/wiki/丁守中"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -261,13 +279,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡正元",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蔡正元"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/蔡正元"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -288,13 +308,15 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄈ",
         "name": "費鴻泰",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/費鴻泰"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/費鴻泰"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -312,13 +334,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": "https://www.facebook.com/yufang.lin.182",
         "last-name-phonetic-index": "ㄌ",
         "name": "林郁方",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林郁方"
+        "references": {
+            "facebook": "https://www.facebook.com/yufang.lin.182",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林郁方"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -342,13 +366,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/people/羅淑蕾/100001773850305",
         "last-name-phonetic-index": "ㄌ",
         "name": "羅淑蕾",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/羅淑蕾"
+        "references": {
+            "facebook": "https://www.facebook.com/people/羅淑蕾/100001773850305",
+            "wikipedia": "http://zh.wikipedia.org/wiki/羅淑蕾"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -369,13 +395,15 @@
             }
         },
         "electoral-district": "金門縣",
-        "facebook": "https://www.facebook.com/eyang68",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊應雄",
         "note": null,
         "party": "中國國民黨",
-        "sector": "金",
-        "wikipedia": null
+        "references": {
+            "facebook": "https://www.facebook.com/eyang68",
+            "wikipedia": null
+        },
+        "sector": "金"
     },
     {
         "active": true,
@@ -402,13 +430,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/liucnko.fans",
         "last-name-phonetic-index": "ㄌ",
         "name": "劉建國",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/劉建國"
+        "references": {
+            "facebook": "https://www.facebook.com/liucnko.fans",
+            "wikipedia": "http://zh.wikipedia.org/wiki/劉建國"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -432,13 +462,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/aliceyoung0110",
         "last-name-phonetic-index": "ㄓ",
         "name": "張嘉郡",
         "note": null,
         "party": "中國國民黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/張嘉郡"
+        "references": {
+            "facebook": "https://www.facebook.com/aliceyoung0110",
+            "wikipedia": "http://zh.wikipedia.org/wiki/張嘉郡"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -456,13 +488,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/WuYiZhenErica",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳宜臻",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/吳宜臻"
+        "references": {
+            "facebook": "https://www.facebook.com/WuYiZhenErica",
+            "wikipedia": "http://zh.wikipedia.org/wiki/吳宜臻"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -489,13 +523,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/braywu",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳秉叡",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/吳秉叡"
+        "references": {
+            "facebook": "https://www.facebook.com/braywu",
+            "wikipedia": "http://zh.wikipedia.org/wiki/吳秉叡"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -516,13 +552,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/Labour.tw",
         "last-name-phonetic-index": "ㄨ",
         "name": "吳育仁",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/吳育仁"
+        "references": {
+            "facebook": "https://www.facebook.com/Labour.tw",
+            "wikipedia": "http://zh.wikipedia.org/wiki/吳育仁"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -546,13 +584,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/yumeinu",
         "last-name-phonetic-index": "ㄧ",
         "name": "尤美女",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/尤美女"
+        "references": {
+            "facebook": "https://www.facebook.com/yumeinu",
+            "wikipedia": "http://zh.wikipedia.org/wiki/尤美女"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -573,13 +613,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄒ",
         "name": "徐少萍",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/徐少萍"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/徐少萍"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -597,13 +639,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/曾巨威教授官方粉絲團/310477302333955",
         "last-name-phonetic-index": "ㄗ",
         "name": "曾巨威",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/曾巨威"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/曾巨威教授官方粉絲團/310477302333955",
+            "wikipedia": "http://zh.wikipedia.org/wiki/曾巨威"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -627,13 +671,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/LeeYingYuan",
         "last-name-phonetic-index": "ㄌ",
         "name": "李應元",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李應元"
+        "references": {
+            "facebook": "https://www.facebook.com/LeeYingYuan",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李應元"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -651,13 +697,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/thlee2116",
         "last-name-phonetic-index": "ㄌ",
         "name": "李桐豪",
         "note": null,
         "party": "親民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李桐豪"
+        "references": {
+            "facebook": "https://www.facebook.com/thlee2116",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李桐豪"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -675,26 +723,30 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/staceylee3306",
         "last-name-phonetic-index": "ㄌ",
         "name": "李貴敏",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李貴敏"
+        "references": {
+            "facebook": "https://www.facebook.com/staceylee3306",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李貴敏"
+        },
+        "sector": "全"
     },
     {
         "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "林世嘉",
         "note": "因喪失其所屬台灣團結聯盟黨籍, 2013/07/15起註銷名籍",
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林世嘉"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/林世嘉"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -715,13 +767,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/柯建銘/1413658198866930",
         "last-name-phonetic-index": "ㄎ",
         "name": "柯建銘",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/柯建銘"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/柯建銘/1413658198866930",
+            "wikipedia": "http://zh.wikipedia.org/wiki/柯建銘"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -739,13 +793,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/yangyuxing",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊玉欣",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/楊玉欣"
+        "references": {
+            "facebook": "https://www.facebook.com/yangyuxing",
+            "wikipedia": "http://zh.wikipedia.org/wiki/楊玉欣"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -763,13 +819,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/tuanyikang",
         "last-name-phonetic-index": "ㄉ",
         "name": "段宜康",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/段宜康"
+        "references": {
+            "facebook": "https://www.facebook.com/tuanyikang",
+            "wikipedia": "http://zh.wikipedia.org/wiki/段宜康"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -790,13 +848,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄏ",
         "name": "洪秀柱",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/洪秀柱"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/洪秀柱"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -814,13 +874,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄆ",
         "name": "潘維剛",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/潘維剛"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/潘維剛"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -838,13 +900,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/兒少尖兵-立法委員王育敏/151758448274492",
         "last-name-phonetic-index": "ㄨ",
         "name": "王育敏",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/王育敏"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/兒少尖兵-立法委員王育敏/151758448274492",
+            "wikipedia": "http://zh.wikipedia.org/wiki/王育敏"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -865,13 +929,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "王金平",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/王金平"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/王金平"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -892,13 +958,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/田秋堇立委國會辦公室/154627377906513",
         "last-name-phonetic-index": "ㄊ",
         "name": "田秋堇",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/田秋堇"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/田秋堇立委國會辦公室/154627377906513",
+            "wikipedia": "http://zh.wikipedia.org/wiki/田秋堇"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -919,13 +987,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/people/紀國棟/100005335924249",
         "last-name-phonetic-index": "ㄐ",
         "name": "紀國棟",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/紀國棟"
+        "references": {
+            "facebook": "https://www.facebook.com/people/紀國棟/100005335924249",
+            "wikipedia": "http://zh.wikipedia.org/wiki/紀國棟"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -946,13 +1016,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/tsuYueh",
         "last-name-phonetic-index": "ㄧ",
         "name": "葉津鈴",
         "note": null,
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/葉津鈴"
+        "references": {
+            "facebook": "https://www.facebook.com/tsuYueh",
+            "wikipedia": "http://zh.wikipedia.org/wiki/葉津鈴"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -970,13 +1042,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/liang4975",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡煌瑯",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蔡煌瑯"
+        "references": {
+            "facebook": "https://www.facebook.com/liang4975",
+            "wikipedia": "http://zh.wikipedia.org/wiki/蔡煌瑯"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -994,13 +1068,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/Bikhim",
         "last-name-phonetic-index": "ㄒ",
         "name": "蕭美琴",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蕭美琴"
+        "references": {
+            "facebook": "https://www.facebook.com/Bikhim",
+            "wikipedia": "http://zh.wikipedia.org/wiki/蕭美琴"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1027,13 +1103,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/people/薛凌/100001982648994",
         "last-name-phonetic-index": "ㄒ",
         "name": "薛凌",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/薛凌"
+        "references": {
+            "facebook": "https://www.facebook.com/people/薛凌/100001982648994",
+            "wikipedia": "http://zh.wikipedia.org/wiki/薛凌"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1054,26 +1132,30 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄙ",
         "name": "蘇清泉",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蘇清泉"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/蘇清泉"
+        },
+        "sector": "全"
     },
     {
         "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/hsuchunghsin",
         "last-name-phonetic-index": "ㄒ",
         "name": "許忠信",
         "note": "2014/02/01辭職",
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/許忠信"
+        "references": {
+            "facebook": "https://www.facebook.com/hsuchunghsin",
+            "wikipedia": "http://zh.wikipedia.org/wiki/許忠信"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1091,13 +1173,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄑ",
         "name": "邱文彥",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/邱文彥"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/邱文彥"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1115,13 +1199,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/love.lichiun",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭麗君",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/鄭麗君"
+        "references": {
+            "facebook": "https://www.facebook.com/love.lichiun",
+            "wikipedia": "http://zh.wikipedia.org/wiki/鄭麗君"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1142,13 +1228,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/陳其邁-Chen-Chi-Mai/122936517768637",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳其邁",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳其邁"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/陳其邁-Chen-Chi-Mai/122936517768637",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳其邁"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1166,13 +1254,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/立委-陳怡潔-Chen-Yi-Chieh/538471059564180",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳怡潔",
         "note": null,
         "party": "親民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳怡潔"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/立委-陳怡潔-Chen-Yi-Chieh/538471059564180",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳怡潔"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1193,13 +1283,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄔ",
         "name": "陳淑慧",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": null
+        "references": {
+            "facebook": null,
+            "wikipedia": null
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1217,13 +1309,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/dr.pihanchen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳碧涵",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": null
+        "references": {
+            "facebook": "https://www.facebook.com/dr.pihanchen",
+            "wikipedia": null
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1241,13 +1335,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄔ",
         "name": "陳節如",
         "note": null,
         "party": "民主進步黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳節如"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳節如"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1265,26 +1361,30 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/pages/陳鎮湘/370548443039113",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳鎮湘",
         "note": null,
         "party": "中國國民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳鎮湘"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/陳鎮湘/370548443039113",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳鎮湘"
+        },
+        "sector": "全"
     },
     {
         "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/mchainlisa",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃文玲",
         "note": "2014/02/01辭職",
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/黃文玲"
+        "references": {
+            "facebook": "https://www.facebook.com/mchainlisa",
+            "wikipedia": "http://zh.wikipedia.org/wiki/黃文玲"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -1305,13 +1405,15 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄙ",
         "name": "孫大千",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/孫大千"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/孫大千"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1338,13 +1440,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "廖正井",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/廖正井"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/廖正井"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1371,13 +1475,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/profile.php?id=100003044085643",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳根德",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳根德"
+        "references": {
+            "facebook": "https://www.facebook.com/profile.php?id=100003044085643",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳根德"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1398,13 +1504,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/ly10962a",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊麗環",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/楊麗環"
+        "references": {
+            "facebook": "https://www.facebook.com/ly10962a",
+            "wikipedia": "http://zh.wikipedia.org/wiki/楊麗環"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1428,13 +1536,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": "https://www.facebook.com/yuling616",
         "last-name-phonetic-index": "ㄌ",
         "name": "呂玉玲",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/呂玉玲"
+        "references": {
+            "facebook": "https://www.facebook.com/yuling616",
+            "wikipedia": "http://zh.wikipedia.org/wiki/呂玉玲"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1455,13 +1565,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/junglicity",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳學聖",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳學聖"
+        "references": {
+            "facebook": "https://www.facebook.com/junglicity",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳學聖"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -1479,13 +1591,15 @@
             }
         },
         "electoral-district": "僑居國外國民",
-        "facebook": null,
         "last-name-phonetic-index": "ㄓ",
         "name": "詹凱臣",
         "note": null,
         "party": "中國國民黨",
-        "sector": "僑",
-        "wikipedia": null
+        "references": {
+            "facebook": null,
+            "wikipedia": null
+        },
+        "sector": "僑"
     },
     {
         "active": true,
@@ -1509,13 +1623,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "王進士",
         "note": null,
         "party": "中國國民黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/王進士"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/王進士"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1536,13 +1652,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/profile.php?id=100000445699070",
         "last-name-phonetic-index": "ㄙ",
         "name": "蘇震清",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蘇震清"
+        "references": {
+            "facebook": "https://www.facebook.com/profile.php?id=100000445699070",
+            "wikipedia": "http://zh.wikipedia.org/wiki/蘇震清"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1572,13 +1690,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/pan.menan1",
         "last-name-phonetic-index": "ㄆ",
         "name": "潘孟安",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/潘孟安"
+        "references": {
+            "facebook": "https://www.facebook.com/pan.menan1",
+            "wikipedia": "http://zh.wikipedia.org/wiki/潘孟安"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1602,13 +1722,15 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "facebook": "https://www.facebook.com/johnnyccchiang",
         "last-name-phonetic-index": "ㄐ",
         "name": "江啟臣",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/江啟臣"
+        "references": {
+            "facebook": "https://www.facebook.com/johnnyccchiang",
+            "wikipedia": "http://zh.wikipedia.org/wiki/江啟臣"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1629,13 +1751,15 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "facebook": "https://www.facebook.com/forpeople",
         "last-name-phonetic-index": "ㄌ",
         "name": "林佳龍",
         "note": null,
         "party": "民主進步黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林佳龍"
+        "references": {
+            "facebook": "https://www.facebook.com/forpeople",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林佳龍"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1662,13 +1786,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/YanKuanHeng",
         "last-name-phonetic-index": "ㄧ",
         "name": "顏寬恒",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/顏寬恒"
+        "references": {
+            "facebook": "https://www.facebook.com/YanKuanHeng",
+            "wikipedia": "http://zh.wikipedia.org/wiki/顏寬恒"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1692,13 +1818,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/Tsaichichang",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡其昌",
         "note": null,
         "party": "民主進步黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蔡其昌"
+        "references": {
+            "facebook": "https://www.facebook.com/Tsaichichang",
+            "wikipedia": "http://zh.wikipedia.org/wiki/蔡其昌"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1719,13 +1847,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/long.tcgo",
         "last-name-phonetic-index": "ㄘ",
         "name": "蔡錦隆",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/蔡錦隆"
+        "references": {
+            "facebook": "https://www.facebook.com/long.tcgo",
+            "wikipedia": "http://zh.wikipedia.org/wiki/蔡錦隆"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1749,13 +1879,15 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "facebook": "https://www.facebook.com/pages/何欣純立法委員粉絲團/302880513884",
         "last-name-phonetic-index": "ㄏ",
         "name": "何欣純",
         "note": null,
         "party": "民主進步黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/何欣純"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/何欣純立法委員粉絲團/302880513884",
+            "wikipedia": "http://zh.wikipedia.org/wiki/何欣純"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1776,13 +1908,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "盧秀燕",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/盧秀燕"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/盧秀燕"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1806,13 +1940,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/yangchiungying",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊瓊瓔",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/楊瓊瓔"
+        "references": {
+            "facebook": "https://www.facebook.com/yangchiungying",
+            "wikipedia": "http://zh.wikipedia.org/wiki/楊瓊瓔"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -1836,13 +1972,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/taiwanweicher",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃偉哲",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/黃偉哲"
+        "references": {
+            "facebook": "https://www.facebook.com/taiwanweicher",
+            "wikipedia": "http://zh.wikipedia.org/wiki/黃偉哲"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1866,13 +2004,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/YehYiJin",
         "last-name-phonetic-index": "ㄧ",
         "name": "葉宜津",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/葉宜津"
+        "references": {
+            "facebook": "https://www.facebook.com/YehYiJin",
+            "wikipedia": "http://zh.wikipedia.org/wiki/葉宜津"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1893,13 +2033,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": "https://www.facebook.com/tangshan.chen",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳唐山",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳唐山"
+        "references": {
+            "facebook": "https://www.facebook.com/tangshan.chen",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳唐山"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1923,13 +2065,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/tthsu",
         "last-name-phonetic-index": "ㄒ",
         "name": "許添財",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/許添財"
+        "references": {
+            "facebook": "https://www.facebook.com/tthsu",
+            "wikipedia": "http://zh.wikipedia.org/wiki/許添財"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1953,13 +2097,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/fififans",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳亭妃",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳亭妃"
+        "references": {
+            "facebook": "https://www.facebook.com/fififans",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳亭妃"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -1980,13 +2126,15 @@
             }
         },
         "electoral-district": "基隆市",
-        "facebook": "https://www.facebook.com/hsieh.kuo.liang",
         "last-name-phonetic-index": "ㄒ",
         "name": "謝國樑",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/謝國樑"
+        "references": {
+            "facebook": "https://www.facebook.com/hsieh.kuo.liang",
+            "wikipedia": "http://zh.wikipedia.org/wiki/謝國樑"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2007,39 +2155,45 @@
             }
         },
         "electoral-district": "平地原住民",
-        "facebook": "https://www.facebook.com/pages/廖國棟_立法委員/125243364222522",
         "last-name-phonetic-index": "ㄌ",
         "name": "廖國棟",
         "note": null,
         "party": "中國國民黨",
-        "sector": "平",
-        "wikipedia": "http://zh.wikipedia.org/wiki/廖國棟"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/廖國棟_立法委員/125243364222522",
+            "wikipedia": "http://zh.wikipedia.org/wiki/廖國棟"
+        },
+        "sector": "平"
     },
     {
         "active": false,
         "city": "平地原住民",
         "contacts": null,
         "electoral-district": "平地原住民",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "林正二",
         "note": "因案於2013/07/11經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
         "party": "親民黨",
-        "sector": "平",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林正二"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/林正二"
+        },
+        "sector": "平"
     },
     {
         "active": true,
         "city": "平地原住民",
         "contacts": null,
         "electoral-district": "平地原住民",
-        "facebook": "https://www.facebook.com/srakacaw",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭天財",
         "note": null,
         "party": "中國國民黨",
-        "sector": "平",
-        "wikipedia": "http://zh.wikipedia.org/wiki/鄭天財"
+        "references": {
+            "facebook": "https://www.facebook.com/srakacaw",
+            "wikipedia": "http://zh.wikipedia.org/wiki/鄭天財"
+        },
+        "sector": "平"
     },
     {
         "active": true,
@@ -2060,13 +2214,15 @@
             }
         },
         "electoral-district": "連江縣",
-        "facebook": "https://www.facebook.com/matsuchenlionheart",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳雪生",
         "note": null,
         "party": "無黨籍",
-        "sector": "馬",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳雪生"
+        "references": {
+            "facebook": "https://www.facebook.com/matsuchenlionheart",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳雪生"
+        },
+        "sector": "馬"
     },
     {
         "active": true,
@@ -2087,13 +2243,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/LiFaWeiYuanLinMingQin",
         "last-name-phonetic-index": "ㄌ",
         "name": "林明溱",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林明溱"
+        "references": {
+            "facebook": "https://www.facebook.com/LiFaWeiYuanLinMingQin",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林明溱"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2117,13 +2275,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/nantou.go",
         "last-name-phonetic-index": "ㄇ",
         "name": "馬文君",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/馬文君"
+        "references": {
+            "facebook": "https://www.facebook.com/nantou.go",
+            "wikipedia": "http://zh.wikipedia.org/wiki/馬文君"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2144,13 +2304,15 @@
             }
         },
         "electoral-district": "澎湖縣",
-        "facebook": "https://www.facebook.com/penghu.yao",
         "last-name-phonetic-index": "ㄧ",
         "name": "楊曜",
         "note": null,
         "party": "民主進步黨",
-        "sector": "澎",
-        "wikipedia": "http://zh.wikipedia.org/wiki/楊曜"
+        "references": {
+            "facebook": "https://www.facebook.com/penghu.yao",
+            "wikipedia": "http://zh.wikipedia.org/wiki/楊曜"
+        },
+        "sector": "澎"
     },
     {
         "active": true,
@@ -2177,13 +2339,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/shaozhi.luo",
         "last-name-phonetic-index": "ㄒ",
         "name": "徐耀昌",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/徐耀昌"
+        "references": {
+            "facebook": "https://www.facebook.com/shaozhi.luo",
+            "wikipedia": "http://zh.wikipedia.org/wiki/徐耀昌"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2204,13 +2368,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/pages/陳-超-明-立法委員-Amingo-e國會辦公室/215361781885954",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳超明",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳超明"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/陳-超-明-立法委員-Amingo-e國會辦公室/215361781885954",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳超明"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2231,13 +2397,15 @@
             }
         },
         "electoral-district": "嘉義市",
-        "facebook": "https://www.facebook.com/chunyilee3721",
         "last-name-phonetic-index": "ㄌ",
         "name": "李俊俋",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李俊俋"
+        "references": {
+            "facebook": "https://www.facebook.com/chunyilee3721",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李俊俋"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2258,13 +2426,15 @@
             }
         },
         "electoral-district": "新竹縣",
-        "facebook": "https://www.facebook.com/pages/徐欣瑩/131795423172",
         "last-name-phonetic-index": "ㄒ",
         "name": "徐欣瑩",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/徐欣瑩"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/徐欣瑩/131795423172",
+            "wikipedia": "http://zh.wikipedia.org/wiki/徐欣瑩"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2285,13 +2455,15 @@
             }
         },
         "electoral-district": "花蓮縣",
-        "facebook": "https://www.facebook.com/wang365",
         "last-name-phonetic-index": "ㄨ",
         "name": "王廷升",
         "note": null,
         "party": "中國國民黨",
-        "sector": "東",
-        "wikipedia": "http://zh.wikipedia.org/wiki/王廷升"
+        "references": {
+            "facebook": "https://www.facebook.com/wang365",
+            "wikipedia": "http://zh.wikipedia.org/wiki/王廷升"
+        },
+        "sector": "東"
     },
     {
         "active": true,
@@ -2315,13 +2487,15 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "facebook": "https://www.facebook.com/ifongshan",
         "last-name-phonetic-index": "ㄒ",
         "name": "許智傑",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/許智傑"
+        "references": {
+            "facebook": "https://www.facebook.com/ifongshan",
+            "wikipedia": "http://zh.wikipedia.org/wiki/許智傑"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2342,13 +2516,15 @@
             }
         },
         "electoral-district": "第9選舉區",
-        "facebook": "https://www.facebook.com/linkuo.cheng",
         "last-name-phonetic-index": "ㄌ",
         "name": "林國正",
         "note": null,
         "party": "中國國民黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林國正"
+        "references": {
+            "facebook": "https://www.facebook.com/linkuo.cheng",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林國正"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2369,13 +2545,15 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "facebook": "https://www.facebook.com/kuntse",
         "last-name-phonetic-index": "ㄌ",
         "name": "李昆澤",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李昆澤"
+        "references": {
+            "facebook": "https://www.facebook.com/kuntse",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李昆澤"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2411,13 +2589,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/Hope.Chiu.2012",
         "last-name-phonetic-index": "ㄑ",
         "name": "邱志偉",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/邱志偉"
+        "references": {
+            "facebook": "https://www.facebook.com/Hope.Chiu.2012",
+            "wikipedia": "http://zh.wikipedia.org/wiki/邱志偉"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2438,13 +2618,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/pages/登真-邱議瑩/179828222070223",
         "last-name-phonetic-index": "ㄑ",
         "name": "邱議瑩",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/邱議瑩"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/登真-邱議瑩/179828222070223",
+            "wikipedia": "http://zh.wikipedia.org/wiki/邱議瑩"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2468,13 +2650,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/LinDaiHua",
         "last-name-phonetic-index": "ㄌ",
         "name": "林岱樺",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林岱樺"
+        "references": {
+            "facebook": "https://www.facebook.com/LinDaiHua",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林岱樺"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2495,13 +2679,15 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "facebook": "https://www.facebook.com/pages/趙天麟/109004835824305",
         "last-name-phonetic-index": "ㄓ",
         "name": "趙天麟",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/趙天麟"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/趙天麟/109004835824305",
+            "wikipedia": "http://zh.wikipedia.org/wiki/趙天麟"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2525,13 +2711,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": "https://www.facebook.com/biling.kuan",
         "last-name-phonetic-index": "ㄍ",
         "name": "管碧玲",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/管碧玲"
+        "references": {
+            "facebook": "https://www.facebook.com/biling.kuan",
+            "wikipedia": "http://zh.wikipedia.org/wiki/管碧玲"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2552,13 +2740,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/chaoshun",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃昭順",
         "note": null,
         "party": "中國國民黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/黃昭順"
+        "references": {
+            "facebook": "https://www.facebook.com/chaoshun",
+            "wikipedia": "http://zh.wikipedia.org/wiki/黃昭順"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2579,13 +2769,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/people/林滄敏/100001652342566",
         "last-name-phonetic-index": "ㄌ",
         "name": "林滄敏",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林滄敏"
+        "references": {
+            "facebook": "https://www.facebook.com/people/林滄敏/100001652342566",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林滄敏"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2609,13 +2801,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/wang.huimei",
         "last-name-phonetic-index": "ㄨ",
         "name": "王惠美",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/王惠美"
+        "references": {
+            "facebook": "https://www.facebook.com/wang.huimei",
+            "wikipedia": "http://zh.wikipedia.org/wiki/王惠美"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2642,13 +2836,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/MingkuWeiDPP",
         "last-name-phonetic-index": "ㄨ",
         "name": "魏明谷",
         "note": null,
         "party": "民主進步黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/魏明谷"
+        "references": {
+            "facebook": "https://www.facebook.com/MingkuWeiDPP",
+            "wikipedia": "http://zh.wikipedia.org/wiki/魏明谷"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2675,13 +2871,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/pages/立法委員鄭汝芬/246025718756404",
         "last-name-phonetic-index": "ㄓ",
         "name": "鄭汝芬",
         "note": null,
         "party": "中國國民黨",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/鄭汝芬"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/立法委員鄭汝芬/246025718756404",
+            "wikipedia": "http://zh.wikipedia.org/wiki/鄭汝芬"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -2702,13 +2900,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/people/陳明文/100001602950538",
         "last-name-phonetic-index": "ㄔ",
         "name": "陳明文",
         "note": null,
         "party": "民主進步黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/陳明文"
+        "references": {
+            "facebook": "https://www.facebook.com/people/陳明文/100001602950538",
+            "wikipedia": "http://zh.wikipedia.org/wiki/陳明文"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2729,13 +2929,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": "https://www.facebook.com/chungchunwong",
         "last-name-phonetic-index": "ㄨ",
         "name": "翁重鈞",
         "note": null,
         "party": "中國國民黨",
-        "sector": "南",
-        "wikipedia": "http://zh.wikipedia.org/wiki/翁重鈞"
+        "references": {
+            "facebook": "https://www.facebook.com/chungchunwong",
+            "wikipedia": "http://zh.wikipedia.org/wiki/翁重鈞"
+        },
+        "sector": "南"
     },
     {
         "active": true,
@@ -2756,13 +2958,15 @@
             }
         },
         "electoral-district": "第8選舉區",
-        "facebook": "https://www.facebook.com/chingchung1204",
         "last-name-phonetic-index": "ㄓ",
         "name": "張慶忠",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/張慶忠"
+        "references": {
+            "facebook": "https://www.facebook.com/chingchung1204",
+            "wikipedia": "http://zh.wikipedia.org/wiki/張慶忠"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2783,13 +2987,15 @@
             }
         },
         "electoral-district": "第7選舉區",
-        "facebook": "https://www.facebook.com/people/江惠貞/100002156317183",
         "last-name-phonetic-index": "ㄐ",
         "name": "江惠貞",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/江惠貞"
+        "references": {
+            "facebook": "https://www.facebook.com/people/江惠貞/100002156317183",
+            "wikipedia": "http://zh.wikipedia.org/wiki/江惠貞"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2813,13 +3019,15 @@
             }
         },
         "electoral-district": "第10選舉區",
-        "facebook": "https://www.facebook.com/lu22689267",
         "last-name-phonetic-index": "ㄌ",
         "name": "盧嘉辰",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/盧嘉辰"
+        "references": {
+            "facebook": "https://www.facebook.com/lu22689267",
+            "wikipedia": "http://zh.wikipedia.org/wiki/盧嘉辰"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2840,13 +3048,15 @@
             }
         },
         "electoral-district": "第9選舉區",
-        "facebook": "https://www.facebook.com/defu.wonderful",
         "last-name-phonetic-index": "ㄌ",
         "name": "林德福",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林德福"
+        "references": {
+            "facebook": "https://www.facebook.com/defu.wonderful",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林德福"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2867,13 +3077,15 @@
             }
         },
         "electoral-district": "第6選舉區",
-        "facebook": "https://www.facebook.com/lin22536788",
         "last-name-phonetic-index": "ㄌ",
         "name": "林鴻池",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林鴻池"
+        "references": {
+            "facebook": "https://www.facebook.com/lin22536788",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林鴻池"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2897,13 +3109,15 @@
             }
         },
         "electoral-district": "第2選舉區",
-        "facebook": "https://www.facebook.com/linshufen.fans",
         "last-name-phonetic-index": "ㄌ",
         "name": "林淑芬",
         "note": null,
         "party": "民主進步黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/林淑芬"
+        "references": {
+            "facebook": "https://www.facebook.com/linshufen.fans",
+            "wikipedia": "http://zh.wikipedia.org/wiki/林淑芬"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2939,13 +3153,15 @@
             }
         },
         "electoral-district": "第1選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄨ",
         "name": "吳育昇",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/吳育昇"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/吳育昇"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2966,13 +3182,15 @@
             }
         },
         "electoral-district": "第4選舉區",
-        "facebook": "https://www.facebook.com/pages/立法委員李鴻鈞/176709252368240",
         "last-name-phonetic-index": "ㄌ",
         "name": "李鴻鈞",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李鴻鈞"
+        "references": {
+            "facebook": "https://www.facebook.com/pages/立法委員李鴻鈞/176709252368240",
+            "wikipedia": "http://zh.wikipedia.org/wiki/李鴻鈞"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -2996,13 +3214,15 @@
             }
         },
         "electoral-district": "第12選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄌ",
         "name": "李慶華",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/李慶華"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/李慶華"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -3023,13 +3243,15 @@
             }
         },
         "electoral-district": "第11選舉區",
-        "facebook": "https://www.facebook.com/mtlo.tw",
         "last-name-phonetic-index": "ㄌ",
         "name": "羅明才",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/羅明才"
+        "references": {
+            "facebook": "https://www.facebook.com/mtlo.tw",
+            "wikipedia": "http://zh.wikipedia.org/wiki/羅明才"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -3056,13 +3278,15 @@
             }
         },
         "electoral-district": "第5選舉區",
-        "facebook": "https://www.facebook.com/ly11051",
         "last-name-phonetic-index": "ㄏ",
         "name": "黃志雄",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/黃志雄"
+        "references": {
+            "facebook": "https://www.facebook.com/ly11051",
+            "wikipedia": "http://zh.wikipedia.org/wiki/黃志雄"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -3083,13 +3307,15 @@
             }
         },
         "electoral-district": "第3選舉區",
-        "facebook": "https://www.facebook.com/people/高志鵬/100001487780127",
         "last-name-phonetic-index": "ㄍ",
         "name": "高志鵬",
         "note": null,
         "party": "民主進步黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/高志鵬"
+        "references": {
+            "facebook": "https://www.facebook.com/people/高志鵬/100001487780127",
+            "wikipedia": "http://zh.wikipedia.org/wiki/高志鵬"
+        },
+        "sector": "北"
     },
     {
         "active": true,
@@ -3110,39 +3336,45 @@
             }
         },
         "electoral-district": "新竹市",
-        "facebook": "https://www.facebook.com/profile.php?id=100002064436517",
         "last-name-phonetic-index": "ㄌ",
         "name": "呂學樟",
         "note": null,
         "party": "中國國民黨",
-        "sector": "北",
-        "wikipedia": "http://zh.wikipedia.org/wiki/呂學樟"
+        "references": {
+            "facebook": "https://www.facebook.com/profile.php?id=100002064436517",
+            "wikipedia": "http://zh.wikipedia.org/wiki/呂學樟"
+        },
+        "sector": "北"
     },
     {
         "active": false,
         "city": "全國不分區",
         "contacts": null,
         "electoral-district": "全國不分區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄓ",
         "name": "張曉風",
         "note": "2013/03/17辭職",
         "party": "親民黨",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/張曉風"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/張曉風"
+        },
+        "sector": "全"
     },
     {
         "active": false,
         "city": "台中市",
         "contacts": null,
         "electoral-district": "第2選舉區",
-        "facebook": null,
         "last-name-phonetic-index": "ㄧ",
         "name": "顏清標",
         "note": "因案於2012/11/28經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
         "party": "無黨團結聯盟",
-        "sector": "中",
-        "wikipedia": "http://zh.wikipedia.org/wiki/顏清標"
+        "references": {
+            "facebook": null,
+            "wikipedia": "http://zh.wikipedia.org/wiki/顏清標"
+        },
+        "sector": "中"
     },
     {
         "active": true,
@@ -3160,13 +3392,15 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/nian.chou",
         "last-name-phonetic-index": "ㄓ",
         "name": "周倪安",
         "note": null,
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/周倪安"
+        "references": {
+            "facebook": "https://www.facebook.com/nian.chou",
+            "wikipedia": "http://zh.wikipedia.org/wiki/周倪安"
+        },
+        "sector": "全"
     },
     {
         "active": true,
@@ -3184,12 +3418,14 @@
             }
         },
         "electoral-district": "全國不分區",
-        "facebook": "https://www.facebook.com/LaiChanChun",
         "last-name-phonetic-index": "ㄌ",
         "name": "賴振昌",
         "note": null,
         "party": "台灣團結聯盟",
-        "sector": "全",
-        "wikipedia": "http://zh.wikipedia.org/wiki/賴振昌"
+        "references": {
+            "facebook": "https://www.facebook.com/LaiChanChun",
+            "wikipedia": "http://zh.wikipedia.org/wiki/賴振昌"
+        },
+        "sector": "全"
     }
 ]
