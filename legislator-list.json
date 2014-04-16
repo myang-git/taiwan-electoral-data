@@ -179,7 +179,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/866",
             "wikipedia":"http://zh.wikipedia.org/wiki/賴士葆"
         },
@@ -206,7 +205,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1722",
             "wikipedia":"http://zh.wikipedia.org/wiki/蔣乃辛"
         },
@@ -293,7 +291,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/966",
             "wikipedia":"http://zh.wikipedia.org/wiki/蔡正元"
         },
@@ -323,7 +320,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1365",
             "wikipedia":"http://zh.wikipedia.org/wiki/費鴻泰"
         },
@@ -414,8 +410,7 @@
         "party":"中國國民黨",
         "references":{
             "facebook":"https://www.facebook.com/eyang68",
-            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1758",
-            "wikipedia":null
+            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1758"
         },
         "sector":"金"
     },
@@ -638,7 +633,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/726",
             "wikipedia":"http://zh.wikipedia.org/wiki/徐少萍"
         },
@@ -768,7 +762,6 @@
         "note":"因喪失其所屬台灣團結聯盟黨籍, 2013/07/15起註銷名籍",
         "party":"台灣團結聯盟",
         "references":{
-            "facebook":null,
             "wikipedia":"http://zh.wikipedia.org/wiki/林世嘉"
         },
         "sector":"全"
@@ -881,7 +874,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/546",
             "wikipedia":"http://zh.wikipedia.org/wiki/洪秀柱"
         },
@@ -908,7 +900,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/678",
             "wikipedia":"http://zh.wikipedia.org/wiki/潘維剛"
         },
@@ -965,7 +956,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/22",
             "wikipedia":"http://zh.wikipedia.org/wiki/王金平"
         },
@@ -1175,7 +1165,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1765",
             "wikipedia":"http://zh.wikipedia.org/wiki/蘇清泉"
         },
@@ -1217,7 +1206,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1743",
             "wikipedia":"http://zh.wikipedia.org/wiki/邱文彥"
         },
@@ -1331,9 +1319,7 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
-            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1720",
-            "wikipedia":null
+            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1720"
         },
         "sector":"全"
     },
@@ -1359,8 +1345,7 @@
         "party":"中國國民黨",
         "references":{
             "facebook":"https://www.facebook.com/dr.pihanchen",
-            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1752",
-            "wikipedia":null
+            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1752"
         },
         "sector":"全"
     },
@@ -1385,7 +1370,6 @@
         "note":null,
         "party":"民主進步黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1709",
             "wikipedia":"http://zh.wikipedia.org/wiki/陳節如"
         },
@@ -1457,7 +1441,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/919",
             "wikipedia":"http://zh.wikipedia.org/wiki/孫大千"
         },
@@ -1493,7 +1476,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1711",
             "wikipedia":"http://zh.wikipedia.org/wiki/廖正井"
         },
@@ -1649,9 +1631,7 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
-            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1760",
-            "wikipedia":null
+            "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1760"
         },
         "sector":"僑"
     },
@@ -1682,7 +1662,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1701",
             "wikipedia":"http://zh.wikipedia.org/wiki/王進士"
         },
@@ -1976,7 +1955,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/869",
             "wikipedia":"http://zh.wikipedia.org/wiki/盧秀燕"
         },
@@ -2247,7 +2225,6 @@
         "note":"因案於2013/07/11經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
         "party":"親民黨",
         "references":{
-            "facebook":null,
             "wikipedia":"http://zh.wikipedia.org/wiki/林正二"
         },
         "sector":"平"
@@ -3260,7 +3237,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/1322",
             "wikipedia":"http://zh.wikipedia.org/wiki/吳育昇"
         },
@@ -3323,7 +3299,6 @@
         "note":null,
         "party":"中國國民黨",
         "references":{
-            "facebook":null,
             "g0v.ly.vote":"http://vote.ly.g0v.tw/legislator/biller/607",
             "wikipedia":"http://zh.wikipedia.org/wiki/李慶華"
         },
@@ -3465,7 +3440,6 @@
         "note":"2013/03/17辭職",
         "party":"親民黨",
         "references":{
-            "facebook":null,
             "wikipedia":"http://zh.wikipedia.org/wiki/張曉風"
         },
         "sector":"全"
@@ -3480,7 +3454,7 @@
         "note":"因案於2012/11/28經最高法院判決褫奪公權確定，並自判決確定之日起，註銷名籍",
         "party":"無黨團結聯盟",
         "references":{
-            "facebook":null,
+        	"facebook":"https://www.facebook.com/pages/顏清標/209755082384467",
             "wikipedia":"http://zh.wikipedia.org/wiki/顏清標"
         },
         "sector":"中"
